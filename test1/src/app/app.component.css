@@ -1,0 +1,91 @@
+body {
+    background-color: darkcyan;
+    width: 100%;
+}
+
+.T1 {
+    width: 40%;
+    border: 1px solid black;
+    padding: 100px;
+    margin: auto;
+    text-align: center;
+    background-color: #143636;
+    border-radius: 5%;
+}
+
+.T2 {
+    width: 80px;
+    border: 1px solid black;
+    padding: 50px, 30px, 50px, 30px;
+    text-align: center;
+    margin: auto;
+    border-radius: 5%;
+}
+
+.table_ajout {
+    width: 40px;
+    padding: 90px;
+    text-align: center;
+    margin: auto;
+    background-color: #143636;
+    border-radius: 5%;
+}
+
+.affichage {
+    background-color: #E0E0E0;
+    border: 0 none;
+    color: #0F5390;
+    font-family: verdana;
+    font-size: 0.875em;
+    text-align: left;
+    text-align: center;
+    padding: auto;
+    border-radius: 10%;
+}
+
+.affichage1 {
+    background-color: #ccdbe9;
+    border: 0 none;
+    color: #e02f2f;
+    font-family: verdana;
+    font-size: 0.875em;
+    text-align: left;
+    text-align: center;
+}
+
+.affichage {
+    border: 1px solid #0F5390;
+    padding: 15px 20px;
+}
+
+button {
+    padding: auto;
+    margin: auto;
+    font-size: large;
+}
+
+.logo {
+    border-radius: 50%;
+    display: block;
+    width: 10%;
+    margin: 40px;
+    position: absolute;
+    top: 80 px;
+    left: 100 px;
+    width: 150px;
+    height: 100px
+}
+
+img {
+    width: 1000px;
+    height: 750px;
+    margin-bottom: 500px;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+.mat_tab {
+    font-size: large;
+}
